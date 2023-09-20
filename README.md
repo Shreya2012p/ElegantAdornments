@@ -1,5 +1,6 @@
 # JEWELLERY-CARD
-
+                                          PREVIEW OF THE JEWELLERY-CARD!!!😍
+![image](https://github.com/Shreya2012p/JEWELLERY-CARD/assets/96654167/425c54a1-b01f-404e-9030-d04d133feb7f)
 
 # MY-PROFILE 🤩
 
