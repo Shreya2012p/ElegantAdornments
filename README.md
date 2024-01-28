@@ -1,4 +1,4 @@
-                                                                  JEWELLERY-CARD!!!😍                               
+                                                   JEWELLERY-CARD!!!😍                               
                                                           
 ## Description
 A beautiful jewelry card design for necklaces created using HTML and CSS. This project aims to showcase an elegant and visually appealing way to present necklace details.
